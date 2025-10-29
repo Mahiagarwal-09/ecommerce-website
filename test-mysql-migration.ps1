@@ -1,5 +1,4 @@
-# MySQL Migration Test Script
-# Run this script to verify the MySQL migration is working correctly
+
 
 Write-Host "`n========================================" -ForegroundColor Cyan
 Write-Host "  Shri Balaji Attire - MySQL Test" -ForegroundColor Cyan
